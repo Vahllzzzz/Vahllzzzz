@@ -2,7 +2,7 @@
 
 Halo, saya **Reihan** — seorang Pemula di dunia digital yang telah menapaki banyak jalan pembelajaran, baik dari dunia akademik maupun dunia Developer. Saya tidak akan memberi tahu banyak tentang identitas asli saya, cukup tahu bahwa saya seseorang yang **berproses dalam diam dan membangun dalam ketenangan**.
 
-<script src="https://gist.github.com/dumbmoron/ea9b6264e6b6183fd590e322d1afab51.js"></script>
+<img align="right" height="250" width="400" alt="GIF" src="img/giphy.gif"/>
 
 > Umur: 16  
 > Status: Pelejar
