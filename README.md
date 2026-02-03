@@ -6,7 +6,7 @@ Halo, saya **Reihan** — seorang Pemula di dunia digital yang telah menapaki ba
 
 > Umur: 16  
 > Status: Pelejar
-> Lokasi: Rancamanyar Bandung, Indonesia
+> Lokasi: Kp. Jatimekar, Desa Bojong Malaka,Kecamatan Baleendah, Kabupaten Bandung, Provinsi Jawa Barat, Negara Indonesia
 
 
 # 💻 Tech Stack:
