@@ -32,7 +32,7 @@ Halo, saya **Reihan** — seorang Pemula di dunia digital yang telah menapaki ba
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+[![spotify widget](https://spootify-zeta.vercel.app/api/Spootify?playlistId=0nmQIMXWTXfhgOBdNzhGOs&userName=Vahllzzzz&style=liquid&color=000000)](https://github.com/your-username/your-repo)
 
 
 
